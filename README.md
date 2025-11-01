@@ -1,16 +1,14 @@
 ![Description of MERN2.png](github_banner.png)
 <div align="center">
 
-# Hi 👋, I'm Md Juyel Rana
+# Hi 👋, I'm Naim Sheikh
 ### A passionate MERN Developer from Bangladesh
 
 ---
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mdjuyelrana_25402) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/juyel99730) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juyel294922) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdjuyelrana.com.bd1@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sheikh.naim.133372/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naimsheikh8020@gmail.com) 
 
 ###
 <div align="center">
