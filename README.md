@@ -66,7 +66,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on [This Company](https://joinventureai.com/)  
+🔭 I’m currently working on [JVAI](https://joinventureai.com/)  
 👨‍💻 All of my projects are available on [GitHub](https://github.com/naimsheikh8020)  
 💬 Ask me about: **JavaScript, React.js**  
 📫 How to reach me: *naimsheikh8020@gmail.com*  
