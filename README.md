@@ -66,10 +66,10 @@
 
 <div align="center">
 
-🔭 I’m currently working on [Microworker Project](https://microworker-bd.netlify.app/)  
+🔭 I’m currently working on [This Company](https://joinventureai.com/)  
 👨‍💻 All of my projects are available on [GitHub](https://github.com/naimsheikh8020)  
 💬 Ask me about: **JavaScript, React.js**  
-📫 How to reach me: *mdjuyelrana.com.bd1@gmail.com*  
+📫 How to reach me: *naimsheikh8020@gmail.com*  
 📄 [Know about my experiences](https://drive.google.com/file/d/1dvN4cJwLwY1rrVUjmozqV1KTs3u2Y45F/view?usp=sharing)  
 
 </div>
