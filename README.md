@@ -1,4 +1,4 @@
-![Description of MERN2.png](github_banner.png)
+![Description of MERN2.png](NaimSheikhGithub.png)
 <div align="center">
 
 # Hi 👋, I'm Naim Sheikh
