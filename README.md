@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hi 👋, I'm Naim Sheikh
-### A passionate MERN Developer from Bangladesh
+### A passionate Software Engineer from Bangladesh
 
 ---
 
