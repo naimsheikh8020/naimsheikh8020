@@ -92,10 +92,8 @@
 
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naimsheikh8020&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com?user=naimsheikh8020&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naimsheikh8020&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=naimsheikh8020&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ## 📈 Contribution Graph
 
