@@ -84,22 +84,25 @@
 
 <div align="center">
 
-🔭 I’m currently working on [JVAI](https://joinventureai.com/)  
+🔭 I'm currently working on [JVAI](https://joinventureai.com/)  
 👨‍💻 All of my projects are available on [GitHub](https://github.com/naimsheikh8020)  
 💬 Ask me about: **JavaScript, React.js**  
 📫 How to reach me: *naimsheikh8020@gmail.com*  
-📄 [Know about my experiences]([https://drive.google.com/file/d/1dvN4cJwLwY1rrVUjmozqV1KTs3u2Y45F/view?usp=sharing](https://drive.google.com/file/d/1CTY9hKU8FXmkg03ujjWdgYob9xX_3cjI/view?usp=drive_link))  
+📄 [Know about my experiences](https://drive.google.com/file/d/1CTY9hKU8FXmkg03ujjWdgYob9xX_3cjI/view?usp=drive_link)  
 
 </div>
 
 # 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=naimsheikh8020&theme=github-dark-blue)](https://git.io/streak-stats)
+
+<!-- Primary source (fixed URL — was pointing to the dead herokuapp.com host before) -->
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=naimsheikh8020&theme=dark)
+
+<!-- Fallback: if the line above stops rendering, comment it out and uncomment this one instead -->
+<!-- ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=naimsheikh8020&theme=github-dark-blue) -->
 
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naimsheikh8020&theme=react-dark)
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=naimsheikh8020&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -107,4 +110,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
-
