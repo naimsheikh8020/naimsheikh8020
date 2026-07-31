@@ -88,7 +88,6 @@
 👨‍💻 All of my projects are available on [GitHub](https://github.com/naimsheikh8020)  
 💬 Ask me about: **JavaScript, React.js**  
 📫 How to reach me: *naimsheikh8020@gmail.com*  
-📄 [Know about my experiences](https://drive.google.com/file/d/1CTY9hKU8FXmkg03ujjWdgYob9xX_3cjI/view?usp=drive_link)  
 
 </div>
 
