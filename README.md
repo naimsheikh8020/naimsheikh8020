@@ -99,9 +99,7 @@
 <!-- Fallback: if the line above stops rendering, comment it out and uncomment this one instead -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=naimsheikh8020&theme=github-dark-blue) -->
 
-## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naimsheikh8020&theme=react-dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=naimsheikh8020&icon=0&color=0)](https://visitcount.itsvg.in)
